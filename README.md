@@ -55,8 +55,19 @@
 ├── figure1_blood_type_height.png          # 研究一統計圖
 ├── figure2_pro_salary_analysis.png        # 研究二統計圖
 ├── figure3_mann_whitney_her2.png          # 研究三統計圖
-└── figure4_summary_dashboard.png          # 綜合儀表板總覽圖
+├── figure4_summary_dashboard.png          # 綜合儀表板總覽圖
+├── OUTPUT-2.DOC                           # SPSS 次數分配統計輸出表 (N=669)
+└── OUTPUT-3.DOC                           # SPSS Kaplan-Meier 存活分析輸出表
 ```
+
+---
+
+## 📑 SPSS 統計輸出說明 (SPSS Outputs)
+
+| 檔案名稱 | 統計分析類型 | 內容摘要 |
+| :--- | :--- | :--- |
+| **`OUTPUT-2.DOC`** | SPSS 次數分配表 (Frequencies) | 總樣本數 $N=669$ 之次數分配、百分比與遺漏值統計 |
+| **`OUTPUT-3.DOC`** | SPSS Kaplan-Meier 存活分析 | 追蹤月數 (`FollowupMonths`) 之存活函數與 Log-Rank / Breslow / Tarone 檢定 |
 
 ---
 
